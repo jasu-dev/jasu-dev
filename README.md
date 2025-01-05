@@ -25,21 +25,18 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-pink?style=for-the-badge&logo=sass)
+![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-lightgrey?style=for-the-badge&logo=spring)
-![Hibernate](https://img.shields.io/badge/-Hibernate-green?style=for-the-badge&logo=hibernate)
-![Maven](https://img.shields.io/badge/-Maven-yellowgreen?style=for-the-badge&logo=apache-maven)
 ![PHP](https://img.shields.io/badge/-PHP-purple?style=for-the-badge&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-red?style=for-the-badge&logo=laravel)
 ![WebSocket](https://img.shields.io/badge/-WebSocket-blueviolet?style=for-the-badge&logo=websocket)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql)
-![JDBC](https://img.shields.io/badge/-JDBC-orange?style=for-the-badge&logo=java)
+![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 ### Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-rohit-green)](https://github.com/jasu-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-JasuDev-green)](https://github.com/jasu-dev)
 
 Feel free to reach out if you want to collaborate on projects or just chat about coding and technology!
 
