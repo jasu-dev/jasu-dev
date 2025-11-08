@@ -1,45 +1,60 @@
-<div align="center">
-  <h1>👋 Hi there, I'm Jaswant Lohmror (a.k.a. Jasu Dev)!</h1>
-  <p>Welcome to my coding journey! 🚀</p>
-</div>
+<h1 align="center">👋 Hey, I'm <a href="https://github.com/jasudev" target="_blank">Jasu Dev</a></h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Full+Stack+Laravel+%26+PHP+Developer;Building+Scalable+Web+Apps+%26+APIs;Passionate+About+Clean+Code+%26+Modern+UI" alt="Typing SVG" />
+</p>
 
-### About Me
+---
 
-💻 I’ve been creating robust and scalable web-based applications using Laravel since 2020, with a strong focus on performance and user experience.
+### About Me  
 
-📱 Currently diving into the world of React Native and Expo to expand my skills into mobile app development. Excited to build seamless cross-platform applications!
+I'm **Jasu Dev**, a passionate **Full Stack Laravel & PHP Developer** who loves crafting **beautifully engineered web experiences** that solve real-world problems.  
 
-🌟 Passionate about turning ideas into reality through clean and efficient code. Constantly learning, growing, and contributing to open-source projects.
+I specialize in **Laravel**, **PHP**, and **MySQL**, with a strong focus on **scalability**, **performance**, and **clean architecture**.  
+Always exploring new technologies to make web apps faster, smarter, and more efficient.  
 
-### What I'm Up To
+---
 
-- 👀 Exploring new technologies and staying updated with the latest trends.
-- 🧑‍💻 Building projects and honing my skills as a Coding Ninja.
-- 📫 Reach out to me: **+91 8949714118**
+### Tech Arsenal  
 
+#### 🖥️ Backend
+`Laravel` • `PHP` • `MySQL` • `RESTful APIs` • `Sanctum` • `JWT Auth`
 
-### Skills
+#### 💻 Frontend
+`HTML5` • `CSS3 / SCSS` • `JavaScript (ES6+)` • `TailwindCSS` • `Bootstrap`
 
-#### Languages and Tools:
+#### 🧰 Tools & Platforms
+`Git / GitHub` • `Composer` • `Postman` • `VS Code`
 
-![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3)
-![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
-![PHP](https://img.shields.io/badge/-PHP-purple?style=for-the-badge&logo=php)
-![Laravel](https://img.shields.io/badge/-Laravel-red?style=for-the-badge&logo=laravel)
-![WebSocket](https://img.shields.io/badge/-WebSocket-blueviolet?style=for-the-badge&logo=websocket)
-![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql)
-![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+#### ☁️ DevOps & Cloud
+`DigitalOcean` • `VPS` • `cPanel` • `Plesk`
 
-### Connect with Me
+---
+### 📊 GitHub Analytics  
 
-[![GitHub](https://img.shields.io/badge/GitHub-JasuDev-green)](https://github.com/jasu-dev)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jasudev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jasu Dev GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasudev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-Feel free to reach out if you want to collaborate on projects or just chat about coding and technology!
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jasudev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
+---
 
+### 🤝 Let’s Collaborate  
 
+💼 **Portfolio / Website:** [jasudev.me](#)  
+📧 **Email:** [gmjthemes@gmail.com](mailto:gmjthemes@gmail.com)  
+💬 **LinkedIn:** [linkedin.com/in/jasudev](#)  
 
+> 💬 _Looking for a developer for your next big idea? Let’s build something amazing together!_
+
+---
+
+<p align="center">
+  <a href="https://github.com/jasudev">
+    <img src="https://img.shields.io/badge/Code%20with%20❤️%20by-Jasu%20Dev-00FFFF?style=for-the-badge&logo=github" alt="Jasu Dev Badge"/>
+  </a>
+</p>
