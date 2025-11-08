@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm <a href="https://github.com/jasudev" target="_blank">Jasu Dev</a></h1>
+<h1 align="center">Hey, I'm <a href="https://github.com/jasudev" target="_blank">Jasu Dev</a></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Full+Stack+Laravel+%26+PHP+Developer;Building+Scalable+Web+Apps+%26+APIs;Passionate+About+Clean+Code+%26+Modern+UI" alt="Typing SVG" />
@@ -39,7 +39,7 @@ Always exploring new technologies to make web apps faster, smarter, and more eff
 
 ### 🤝 Let’s Collaborate  
 
-💼 **Portfolio / Website:** [jasudev.me](#)  
+💼 **Portfolio / Website:** [tejaldigital.in](#)  
 📧 **Email:** [gmjthemes@gmail.com](mailto:gmjthemes@gmail.com)  
 💬 **LinkedIn:** [linkedin.com/in/jasudev](#)  
 
